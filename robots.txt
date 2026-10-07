@@ -1,0 +1,23 @@
+# Studio Dandara — Niterói, RJ
+User-agent: *
+Allow: /
+
+# Buscadores e assistentes de IA são bem-vindos
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://studiodandara.com.br/sitemap.xml
